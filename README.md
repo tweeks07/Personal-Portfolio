@@ -22,6 +22,7 @@ To create and coninually build an online portfolio page showcasing your skills a
 
 ## End Result
 **Repository Code:**
-
+https://github.com/tweeks07/Personal-Portfolio
 
 **Deployed Code:**
+https://tweeks07.github.io/Personal-Portfolio/
