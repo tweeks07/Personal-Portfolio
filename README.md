@@ -13,7 +13,7 @@ The personal protfolio includes:
 - Project Examples
 
 Image displays responsive webpage
-![](assets\images\portfolioscreenshot.png)
+![](assets/images/portfolioscreenshot.png)
 
 ## Deployment
 ---
