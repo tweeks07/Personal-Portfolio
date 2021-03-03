@@ -22,6 +22,12 @@ To create and coninually build an online portfolio page showcasing your skills a
 
 ## End Result
 **Repository Code:**
+https://github.com/tweeks07/Personal-Portfolio
 
+<<<<<<< HEAD
 
 **Deployed Code:**
+=======
+**Deployed Code:**
+https://tweeks07.github.io/Personal-Portfolio/
+>>>>>>> aa41d1a3127ab22ea55945bee160a1ff83aad313
