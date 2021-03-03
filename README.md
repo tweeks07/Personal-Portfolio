@@ -12,6 +12,9 @@ The personal protfolio includes:
 - Link to a downloadable PDF resume
 - Project Examples
 
+Image displays responsive webpage
+![](assets\images\portfolioscreenshot.png)
+
 ## Deployment
 ---
 The URL of the [deployed](https://tweeks07.github.io/Personal-Portfolio/) application
